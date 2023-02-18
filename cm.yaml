@@ -5,4 +5,4 @@ metadata:
   namespace: gitops
 data: 
   example.property.1: hello
-  example.property.2: world
+  example.property.2: world !!!!
