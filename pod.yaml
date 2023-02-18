@@ -1,0 +1,10 @@
+
+kind: Pod 
+apiVersion: v1 
+metadata:
+  name: pod-env-var 
+  namespace: gitops
+spec:
+  containers:
+    - name: ngx
+      image: nginx:1.7.9 
