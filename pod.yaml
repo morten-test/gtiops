@@ -1,8 +1,7 @@
-
 kind: Pod 
 apiVersion: v1 
 metadata:
-  name: pod-env-var 
+  name: pod
   namespace: gitops
 spec:
   containers:
